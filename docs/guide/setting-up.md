@@ -77,7 +77,7 @@ npm install
 Before starting up you'll need to create an admin-level user so that you can log in. After running the following command, Apostrophe will ask you to enter a password for this user.
 
 ```bash
-node app @apostrophecms/user:add my-user admin
+node apos-app @apostrophecms/user:add my-user admin
 # Replace `my-user` with the name you want for your first user.
 ```
 
